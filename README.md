@@ -77,7 +77,3 @@ The NIST Cybersecurity Framework Implementation project aims to help organizatio
 - **Project Lead**: Venkata Swamy Bathala
 - **NIST CSF Specialist**: Venkata Swamy Bathala
 - **Cybersecurity Framework Expert**: Venkata Swamy Bathala
-
-## License
-
-This project is licensed under the MIT License.
